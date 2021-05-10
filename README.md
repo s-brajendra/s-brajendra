@@ -27,6 +27,9 @@ for(int register count1 = 0; count1 < str_length; count1++){
 cout << "sum of ASCII values of letters in my Name is "<<sum<<endl;
     return 0;
 }
+
+
+OUTPUT :- sum of ASCII values of letters in my Name is 1453 
 ```
 
 
