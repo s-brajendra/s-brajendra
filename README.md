@@ -1,6 +1,7 @@
 # Brajendra Suman ##200102022
 
 |       Event name      | Event Date  |Gone through resources|
+|-----------------------|-------------|----------------------|
 |      Open Source      | 10-may-2021 |          Yes         |
 |Competitive Programming| 11-may-2021 |          Yes         |
 |         Design        | 12-may-2021 |          No          |
