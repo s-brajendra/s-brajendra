@@ -1,4 +1,4 @@
-# Brajendra Suman ##200102022
+# Brajendra Suman ## 200102022
 
 |       Event name      | Event Date  |Gone through resources|
 |-----------------------|-------------|----------------------|
@@ -9,6 +9,26 @@
 |     Web Development   | 14-may-2021 |          Yes         |
 |     Machine Learning  | 15-may-2021 |          Yes         |
 |     App Development   | 16-may-2021 |          No          |
+
+''' 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    char str[] = "Brajendra Suman";
+    int str_length = sizeof(str)/sizeof(char);
+    int sum = 0;
+    
+for(int register count1 = 0; count1 < str_length; count1++){
+    sum = sum + (int)str[count1];
+}
+cout << "sum of ASCII values of letters in my Name is "<<sum<<endl;
+    return 0;
+}
+
+'''
 
 
 
