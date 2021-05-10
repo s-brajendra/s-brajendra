@@ -38,13 +38,13 @@ OUTPUT :- sum of ASCII values of letters in my Name is 1453
 ![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png "coding club logo")
 
 ### I am Interested in
-1. Competitive Coding 
-2. Machine Learning 
-3. Web Development 
-4. Game Development 
+- Competitive Coding 
+- Machine Learning 
+- Web Development 
+- Game Development 
 
-- I have created a working website using CSS , HTML , JAVASCRIPT for my previous school NCC group
-- I have created a working quiz android app using android studio
+1. I have created a working website using CSS , HTML , JAVASCRIPT for my previous school NCC group
+2. I have created a working quiz android app using android studio
 
 
 
