@@ -35,7 +35,7 @@ OUTPUT :- sum of ASCII values of letters in my Name is 1453
 ---
 
 
-![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png "coding club logo")
 
 ### I am Interested in
 1. Competitive Coding 
