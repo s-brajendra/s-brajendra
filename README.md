@@ -10,6 +10,7 @@
 |     Machine Learning  | 15-may-2021 |          Yes         |
 |     App Development   | 16-may-2021 |          No          |
 
+---
 ``` 
 #include <iostream>
 
@@ -31,7 +32,7 @@ cout << "sum of ASCII values of letters in my Name is "<<sum<<endl;
 
 OUTPUT :- sum of ASCII values of letters in my Name is 1453 
 ```
-
+---
 
 
 ![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png)
