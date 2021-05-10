@@ -43,7 +43,7 @@ OUTPUT :- sum of ASCII values of letters in my Name is 1453
 - Web Development 
 - Game Development 
 
-1. I have created a working website using CSS , HTML , JAVASCRIPT for my previous school NCC group
+1. I have created a working website using CSS , HTML , JAVASCRIPT for NCC group
 2. I have created a working quiz android app using android studio
 
 
