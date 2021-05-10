@@ -1,4 +1,4 @@
-<h1> Brajendra Suman        <h2> 200102022 
+<h1> Brajendra Suman <h1>      <h2> 200102022 </h2> 
 
 |       Event name      | Event Date  |Gone through resources|
 |-----------------------|-------------|----------------------|
