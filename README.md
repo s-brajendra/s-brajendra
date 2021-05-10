@@ -1,14 +1,14 @@
 #Brajendra Suman ##200102022
 
-                    |       Event name      | Event Date  |Gone through resources|
-                    |-----------------------|-------------|----------------------|
-                    |      Open Source      | 10-may-2021 |          Yes         |
-                    |Competitive Programming| 11-may-2021 |          Yes         |  
-                    |         Design        | 12-may-2021 |          No          |
-                    |    Game Developments  | 13-may-2021 |          Yes         |
-                    |     Web Development   | 14-may-2021 |          Yes         |
-                    |     Machine Learning  | 15-may-2021 |          Yes         |
-                    |     App Development   | 16-may-2021 |          No          |
+|       Event name      | Event Date  |Gone through resources|
+|-----------------------|-------------|----------------------|
+|      Open Source      | 10-may-2021 |          Yes         |
+|Competitive Programming| 11-may-2021 |          Yes         |  
+|         Design        | 12-may-2021 |          No          |
+|    Game Developments  | 13-may-2021 |          Yes         |
+|     Web Development   | 14-may-2021 |          Yes         |
+|     Machine Learning  | 15-may-2021 |          Yes         |
+|     App Development   | 16-may-2021 |          No          |
 
 ``` 
 #include <iostream>
