@@ -15,9 +15,9 @@
 
 using namespace std;
 
-int main()
-{
-    char str[] = "Brajendra Suman";
+int main(){
+/* we can also change this program for variable string input*/
+    char str[] = "Brajendra Suman"; 
     int str_length = sizeof(str)/sizeof(char);
     int sum = 0;
     
