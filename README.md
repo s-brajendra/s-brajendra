@@ -17,7 +17,7 @@
 
 </div>
 
- <img style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
+ <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
 
 <!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
