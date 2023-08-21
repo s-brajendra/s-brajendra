@@ -1,12 +1,12 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
 
 
-<span align="centre">
-  <code>
+<div align="centre">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&width=435&lines=Brajendra+Suman;BTech+%40+IIT-Guwahati;MERN+%7C+BLOCKCHAIN+" alt="Typing SVG" /></a>
 
-  </code>
-</span>
+
+</div>
 
 <span align="right" >
 
