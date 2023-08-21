@@ -1,7 +1,10 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
 
 
-<span align="centre"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=362B2B&background=FF000000&multiline=true&width=435&lines=Brajendra+Suman;BTech+%40+IIT-G;MERN%7CWeb3%7CBlockchain" alt="Typing SVG" /></a> </span>
+<span align="centre">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&width=435&lines=Brajendra+Suman;BTech+%40+IIT-Guwahati;MERN+%7C+BLOCKCHAIN+)](https://git.io/typing-svg)
+
+</span>
 
 <span align="right" >
 
