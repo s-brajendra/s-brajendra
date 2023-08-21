@@ -3,7 +3,7 @@
 
 <span align="centre">
   <code>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&width=435&lines=Brajendra+Suman;BTech+%40+IIT-Guwahati;MERN+%7C+BLOCKCHAIN+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&multiline=true&width=435&lines=Brajendra+Suman;BTech+%40+IIT-Guwahati;MERN+%7C+BLOCKCHAIN+" alt="Typing SVG" /></a>
 
   </code>
 </span>
