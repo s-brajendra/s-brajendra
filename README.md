@@ -20,43 +20,7 @@
 
  <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
 
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a allign="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
- -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
