@@ -23,6 +23,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   6 hrs 4 mins    █████████████░░░░░░░░░░░░   52.06 %
+C++          4 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   35.93 %
+CSS          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Solidity     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+JSON         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+```
+
 <!--END_SECTION:waka-->
 
 <span align="right">
