@@ -19,9 +19,9 @@
 </div>
 
  <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
+<!--    
 
-
-
+My weekly Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,6 +34,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+-->
 <span align="right">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fs-brajendra%2Fs-brajendra&label=VISITOR&countColor=%23263759&style=flat-square)
