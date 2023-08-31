@@ -21,7 +21,7 @@
  <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
 
 
-My weekly Coding Stats
+
 <!--START_SECTION:waka-->
 
 
