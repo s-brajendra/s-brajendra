@@ -19,22 +19,16 @@
 </div>
 
  <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
-<!--    
+
 
 My weekly Coding Stats
 <!--START_SECTION:waka-->
 
-```txt
-C++          5 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   44.91 %
-Other        4 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.34 %
-JavaScript   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
+
 
 <!--END_SECTION:waka-->
 
--->
+
 <span align="right">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fs-brajendra%2Fs-brajendra&label=VISITOR&countColor=%23263759&style=flat-square)
