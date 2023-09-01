@@ -22,14 +22,10 @@
 
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka delet_it-->
 
 ```txt
-C++          5 hrs 34 mins   ███████████░░░░░░░░░░░░░░   43.87 %
-Other        4 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.32 %
-JavaScript   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+
 ```
 
 <!--END_SECTION:waka-->
