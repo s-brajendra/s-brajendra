@@ -22,7 +22,7 @@
 
 
 
-<!--START_SECTION:waka delet_it-->
+<!--START_SECTION:waka-->
 
 ```txt
 
