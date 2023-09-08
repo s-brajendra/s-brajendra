@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-
+Python           7 hrs 18 mins   █████████████████████░░░░   84.18 %
+Assembly         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Jupyter          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+CSS              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+ActionScript     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
