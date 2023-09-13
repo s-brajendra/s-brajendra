@@ -8,15 +8,15 @@
 -------
 </br>
 
+<p align = "center" style="text-align: center; border-radius:100px;" >
+
+ ### Stats! 
+
+<p>
+
 <div align = "center" style="text-align: center; border-radius:100px;" >
 
- ###  Stats! 
 
-</div>
-
-<div align = "center" style="text-align: center; border-radius:100px;" >
-
-###  Stats! 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s-brajendra&layout=compact&hide=ejs&theme=dark&border=50px)
 
