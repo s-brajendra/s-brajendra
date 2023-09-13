@@ -7,13 +7,14 @@
 
 -------
 
-<p align = "center" style="text-align: center; border-radius:100px;" >
+<div align = "center" style="text-align: center; border-radius:100px;" >
 
  ### Stats! 
+ </br>
+</br>
 
-<p>
-</br>
-</br>
+<div>
+
 
 
 <div align = "center" style="text-align: center; border-radius:100px;" >
