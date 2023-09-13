@@ -1,4 +1,4 @@
-<p align = "centre" >
+<p align = "center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=2000&pause=500&color=2859BC&background=0010FF00&multiline=true&width=435&height=90&lines=Brajendra+Suman;BTech+%40+IIT-Guwahati;MERN%7CBLOCKCHAIN%7ML;+++++" alt="Typing SVG" /></a>
 </p>
 
