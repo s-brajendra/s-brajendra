@@ -9,7 +9,7 @@
 
 <div align = "center" style="text-align: center; border-radius:100px;" >
 
- ### Stats! 
+ ### Stats
  </br>
 </br>
 
