@@ -38,8 +38,9 @@
 
 <div align = "center" style="text-align: center;" >
  </br>
- 🧑‍💻 This Week's coding hours 
+ 🧑‍💻 This Week's language hours 
  </br>
+  </br>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -58,8 +59,9 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align = "center" style="text-align: center;" >
  </br>
-  🛠️ Projects
+  🛠️ Project Tinkering 
  </br>
+  </br>
 <!--START_SECTION:SHOW_PROJECTS-->
 
 <!--END_SECTION:SHOW_PROJECTS-->
