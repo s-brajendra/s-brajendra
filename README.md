@@ -37,7 +37,7 @@
 </div>
 
 <div align = "center" style="text-align: center;" >
-<!--START_SECTION:waka-->
+<!--START_SECTION:SHOW_PROJECTS-->
 
 ```txt
 Python       11 hrs 7 mins   ███████████████████▓░░░░░   79.31 %
@@ -47,7 +47,7 @@ Assembly     25 mins         ▓░░░░░░░░░░░░░░░░
 JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:SHOW_PROJECTS-->
 
 
 </div>
