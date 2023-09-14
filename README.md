@@ -37,6 +37,7 @@
 </div>
 
 <div align = "center" style="text-align: center;" >
+ *** This Week's coding hours ***
 <!--START_SECTION:waka-->
 
 ```txt
@@ -51,6 +52,18 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
 
 
 </div>
+
+
+<div align = "center" style="text-align: center;" >
+ *** Projects ***
+<!--START_SECTION:SHOW_PROJECTS-->
+
+<!--END_SECTION:SHOW_PROJECTS-->
+
+
+</div>
+
+
 
 
 <span align="right">
