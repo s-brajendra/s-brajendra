@@ -45,6 +45,14 @@
   </br>
 <!--START_SECTION:waka-->
 
+```txt
+Python       9 hrs 34 mins   ██████████████████▓░░░░░░   74.95 %
+Jupyter      1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JavaScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Assembly     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+```
+
 <!--END_SECTION:waka-->
 
 
