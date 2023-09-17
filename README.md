@@ -79,9 +79,9 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
  </br>
   </br>
 
-<!--START_SECTION:SHOW_PROJECTS-->
+<!--START_SECTION:waka:SHOW_PROJECTS-->
 
-<!--END_SECTION:SHOW_PROJECTS-->
+<!--END_SECTION:waka:SHOW_PROJECTS-->
 
 
 </div>
