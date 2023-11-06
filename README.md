@@ -2,7 +2,7 @@ Hello ^ \_ ^
 
 ---
 
-About me:
+##### About me:
 
 <p align = "center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=2000&pause=400&color=2859BC&background=0010FF00&multiline=true&width=550&height=110&lines=Brajendra+Suman;BTech+%40+Indian+Institute+of+Technology+Guwahati" alt="Typing SVG" /></a>
@@ -48,7 +48,7 @@ About me:
 
 ---
 
-### :fire: My Stats :
+##### :fire: My Stats :
 
 <div align = "center" style="text-align: center; border-radius:100px;" >
 
@@ -69,17 +69,21 @@ About me:
 
 </div>
 
+---
+
 <!-- <div align = "center" style="text-align: center;" >
 
 
  <img align = "centre" style = "border-radius:100px;" src="https://github-readme-activity-graph.vercel.app/graph?username=s-brajendra&theme=react-dark&bg_color=20232a&hide_border=true" border_radius = "100px" />
 </div> -->
 
+##### 🧑‍💻 This Week's language hours
+
 <div align = "center" style="text-align: center;" >
   </br>
  </br>
   </br>
- 🧑‍💻 This Week's language hours 
+ 
  </br>
   </br>
 <!--START_SECTION:waka-->
@@ -107,10 +111,11 @@ JSON         18 mins         ▓░░░░░░░░░░░░░░░░
 
 </div>
 
+---
+
+##### 🛠️ Currently Tinkering
+
 <div align = "center" style="text-align: center;" >
- </br>
-  🛠️ Currently Tinkering 
- </br>
   </br>
 
 <!--START_SECTION:waka:SHOW_PROJECTS-->
