@@ -89,11 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-Python           13 hrs 13 mins  ██████████████████▓░░░░░░   74.00 %
-Jupyter          2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Markdown         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Assembly         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
