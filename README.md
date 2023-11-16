@@ -89,8 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter    5 hrs 35 mins   █████████████████████░░░░   84.53 %
-Markdown   1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Jupyter   5 hrs 35 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
