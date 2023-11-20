@@ -89,7 +89,8 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   5 hrs 35 mins   █████████████████████████   100.00 %
+Python    8 mins          ███████████████████▒░░░░░   76.71 %
+Jupyter   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
 ```
 
 <!--END_SECTION:waka-->
