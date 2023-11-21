@@ -89,8 +89,10 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-Python    8 mins          ███████████████████▒░░░░░   76.71 %
-Jupyter   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
+Jupyter          30 mins         ████████████████░░░░░░░░░   63.48 %
+Python           10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Markdown         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
