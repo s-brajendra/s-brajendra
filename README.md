@@ -89,11 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-Python     0 secs          ██████████░░░░░░░░░░░░░░░   40.41 %
-Markdown   0 secs          ████████░░░░░░░░░░░░░░░░░   32.44 %
-Docker     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-YAML       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Text       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
