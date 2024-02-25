@@ -89,9 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB        20 mins         ████████████████████░░░░░   80.04 %
-Other         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-Objective-C   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+MATLAB   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
