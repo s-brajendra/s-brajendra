@@ -89,7 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   13 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
