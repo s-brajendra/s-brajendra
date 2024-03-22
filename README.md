@@ -89,9 +89,7 @@ Hello ^ \_ ^
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 53 mins    ██████████████████████░░░   88.04 %
-CSS          15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
