@@ -59,7 +59,7 @@ Hello ^ \_ ^
 
 <div align = "center" style="text-align: center; border-radius:100px;" >
 
-![sbjen's Stats](https://github-readme-stats.vercel.app/api?username=sbjen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sbjen's Stats](https://github-readme-stats.vercel.app/api?username=sbjen&theme=vue-dark&border_radius=50&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
