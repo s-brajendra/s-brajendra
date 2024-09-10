@@ -59,6 +59,12 @@ Hello ^ \_ ^
 
 <div align = "center" style="text-align: center; border-radius:100px;" >
 
+![sbjen's Stats](https://github-readme-stats.vercel.app/api?username=sbjen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+<div align = "center" style="text-align: center; border-radius:100px;" >
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sbjen&layout=compact&hide=ejs&theme=dark&border=50px)
 
 </div>
